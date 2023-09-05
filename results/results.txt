@@ -1,0 +1,1895 @@
+ID: 1
+DNA: YLVDVILDEAANKGTGKWTSQSALD
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Y -> 1
+L -> 3
+V -> 2
+D -> 3
+I -> 1
+E -> 1
+A -> 3
+N -> 1
+K -> 2
+G -> 2
+T -> 2
+W -> 1
+S -> 2
+Q -> 1
+
+ASCII DNA Sequence: 89 76 86 68 86 73 76 68 69 65 65 78 75 71 84 71 75 87 84 83 81 83 65 76 68 
+
+Binary DNA Sequence: 1011001 1001100 1010110 1000100 1010110 1001001 1001100 1000100 1000101 1000001 1000001 1001110 1001011 1000111 1010100 1000111 1001011 1010111 1010100 1010011 1010001 1010011 1000001 1001100 1000100 
+
+Target DNA Similarity: 20
+
+Target DNA Distance: 
+	Euclidean Distance: 54.2218
+	Manhattan Distance: 206
+	Minkowski Distance: 36.8536
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: DQAIANQIJFFSPLYLPBYXVXFQI
+
+Decrypted DNA Sequence: YLVDVILDEAANKGTGKWTSQSALD
+--------------------------------------------------
+
+ID: 2
+DNA: TESVFARYISSLKDQRVAASKVLSG
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+T -> 1
+E -> 1
+S -> 5
+V -> 3
+F -> 1
+A -> 3
+R -> 2
+Y -> 1
+I -> 1
+L -> 2
+K -> 2
+D -> 1
+Q -> 1
+G -> 1
+
+ASCII DNA Sequence: 84 69 83 86 70 65 82 89 73 83 83 76 75 68 81 82 86 65 65 83 75 86 76 83 71 
+
+Binary DNA Sequence: 1010100 1000101 1010011 1010110 1000110 1000001 1010010 1011001 1001001 1010011 1010011 1001100 1001011 1000100 1010001 1010010 1010110 1000001 1000001 1010011 1001011 1010110 1001100 1010011 1000111 
+
+Target DNA Similarity: -17
+
+Target DNA Distance: 
+	Euclidean Distance: 49.4672
+	Manhattan Distance: 195
+	Minkowski Distance: 33.2262
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: YJXAKFWDNXXQPIVWAFFXPAQXL
+
+Decrypted DNA Sequence: TESVFARYISSLKDQRVAASKVLSG
+--------------------------------------------------
+
+ID: 3
+DNA: OOOOOOOOOOMSKQQIGVVGMAVMG
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+O -> 10
+M -> 3
+S -> 1
+K -> 1
+Q -> 2
+I -> 1
+G -> 3
+V -> 3
+A -> 1
+
+ASCII DNA Sequence: 79 79 79 79 79 79 79 79 79 79 77 83 75 81 81 73 71 86 86 71 77 65 86 77 71 
+
+Binary DNA Sequence: 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001101 1010011 1001011 1010001 1010001 1001001 1000111 1010110 1010110 1000111 1001101 1000001 1010110 1001101 1000111 
+
+Target DNA Similarity: -28
+
+Target DNA Distance: 
+	Euclidean Distance: 45.1442
+	Manhattan Distance: 178
+	Minkowski Distance: 30.7894
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: TTTTTTTTTTRXPVVNLAALRFARL
+
+Decrypted DNA Sequence: OOOOOOOOOOMSKQQIGVVGMAVMG
+--------------------------------------------------
+
+ID: 4
+DNA: ISSLKDQRVAASKVLSGPQAQPAGD
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+I -> 1
+S -> 4
+L -> 2
+K -> 2
+D -> 2
+Q -> 3
+R -> 1
+V -> 2
+A -> 4
+G -> 2
+P -> 2
+
+ASCII DNA Sequence: 73 83 83 76 75 68 81 82 86 65 65 83 75 86 76 83 71 80 81 65 81 80 65 71 68 
+
+Binary DNA Sequence: 1001001 1010011 1010011 1001100 1001011 1000100 1010001 1010010 1010110 1000001 1000001 1010011 1001011 1010110 1001100 1010011 1000111 1010000 1010001 1000001 1010001 1010000 1000001 1000111 1000100 
+
+Target DNA Similarity: 20
+
+Target DNA Distance: 
+	Euclidean Distance: 51.303
+	Manhattan Distance: 202
+	Minkowski Distance: 34.6851
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: NXXQPIVWAFFXPAQXLUVFVUFLI
+
+Decrypted DNA Sequence: ISSLKDQRVAASKVLSGPQAQPAGD
+--------------------------------------------------
+
+ID: 5
+DNA: AQPAGDKAEFIEKVRRALYLGKIVS
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+A -> 4
+Q -> 1
+P -> 1
+G -> 2
+D -> 1
+K -> 3
+E -> 2
+F -> 1
+I -> 2
+V -> 2
+R -> 2
+L -> 2
+Y -> 1
+S -> 1
+
+ASCII DNA Sequence: 65 81 80 65 71 68 75 65 69 70 73 69 75 86 82 82 65 76 89 76 71 75 73 86 83 
+
+Binary DNA Sequence: 1000001 1010001 1010000 1000001 1000111 1000100 1001011 1000001 1000101 1000110 1001001 1000101 1001011 1010110 1010010 1010010 1000001 1001100 1011001 1001100 1000111 1001011 1001001 1010110 1010011 
+
+Target DNA Similarity: 52
+
+Target DNA Distance: 
+	Euclidean Distance: 50.8527
+	Manhattan Distance: 204
+	Minkowski Distance: 33.9364
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: FVUFLIPFJKNJPAWWFQDQLPNAX
+
+Decrypted DNA Sequence: AQPAGDKAEFIEKVRRALYLGKIVS
+--------------------------------------------------
+
+ID: 6
+DNA: RAGCIIRAQFLQKITDAYAENPQIA
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+R -> 2
+A -> 5
+G -> 1
+C -> 1
+I -> 4
+Q -> 3
+F -> 1
+L -> 1
+K -> 1
+T -> 1
+D -> 1
+Y -> 1
+E -> 1
+N -> 1
+P -> 1
+
+ASCII DNA Sequence: 82 65 71 67 73 73 82 65 81 70 76 81 75 73 84 68 65 89 65 69 78 80 81 73 65 
+
+Binary DNA Sequence: 1010010 1000001 1000111 1000011 1001001 1001001 1010010 1000001 1010001 1000110 1001100 1010001 1001011 1001001 1010100 1000100 1000001 1011001 1000001 1000101 1001110 1010000 1010001 1001001 1000001 
+
+Target DNA Similarity: 71
+
+Target DNA Distance: 
+	Euclidean Distance: 50.8822
+	Manhattan Distance: 217
+	Minkowski Distance: 33.1711
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: WFLHNNWFVKQVPNYIFDFJSUVNF
+
+Decrypted DNA Sequence: RAGCIIRAQFLQKITDAYAENPQIA
+--------------------------------------------------
+
+ID: 7
+DNA: GYTVSIFNRSREKTEEVIAENPGKK
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+G -> 2
+Y -> 1
+T -> 2
+V -> 2
+S -> 2
+I -> 2
+F -> 1
+N -> 2
+R -> 2
+E -> 4
+K -> 3
+A -> 1
+P -> 1
+
+ASCII DNA Sequence: 71 89 84 86 83 73 70 78 82 83 82 69 75 84 69 69 86 73 65 69 78 80 71 75 75 
+
+Binary DNA Sequence: 1000111 1011001 1010100 1010110 1010011 1001001 1000110 1001110 1010010 1010011 1010010 1000101 1001011 1010100 1000101 1000101 1010110 1001001 1000001 1000101 1001110 1010000 1000111 1001011 1001011 
+
+Target DNA Similarity: 3
+
+Target DNA Distance: 
+	Euclidean Distance: 50.4678
+	Manhattan Distance: 213
+	Minkowski Distance: 32.6829
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: LDYAXNKSWXWJPYJJANFJSULPP
+
+Decrypted DNA Sequence: GYTVSIFNRSREKTEEVIAENPGKK
+--------------------------------------------------
+
+ID: 8
+DNA: QAQRDYFGAHTYKRIDKEGVFHTEW
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Q -> 2
+A -> 2
+R -> 2
+D -> 2
+Y -> 2
+F -> 2
+G -> 2
+H -> 2
+T -> 2
+K -> 2
+I -> 1
+E -> 2
+V -> 1
+W -> 1
+
+ASCII DNA Sequence: 81 65 81 82 68 89 70 71 65 72 84 89 75 82 73 68 75 69 71 86 70 72 84 69 87 
+
+Binary DNA Sequence: 1010001 1000001 1010001 1010010 1000100 1011001 1000110 1000111 1000001 1001000 1010100 1011001 1001011 1010010 1001001 1000100 1001011 1000101 1000111 1010110 1000110 1001000 1010100 1000101 1010111 
+
+Target DNA Similarity: 24
+
+Target DNA Distance: 
+	Euclidean Distance: 54.626
+	Manhattan Distance: 208
+	Minkowski Distance: 37.5321
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: VFVWIDKLFMYDPWNIPJLAKMYJB
+
+Decrypted DNA Sequence: QAQRDYFGAHTYKRIDKEGVFHTEW
+--------------------------------------------------
+
+ID: 9
+DNA: EKTEEVIAENPGKKLVPYYTVKEFV
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+E -> 5
+K -> 4
+T -> 2
+V -> 4
+I -> 1
+A -> 1
+N -> 1
+P -> 2
+G -> 1
+L -> 1
+Y -> 2
+F -> 1
+
+ASCII DNA Sequence: 69 75 84 69 69 86 73 65 69 78 80 71 75 75 76 86 80 89 89 84 86 75 69 70 86 
+
+Binary DNA Sequence: 1000101 1001011 1010100 1000101 1000101 1010110 1001001 1000001 1000101 1001110 1010000 1000111 1001011 1001011 1001100 1010110 1010000 1011001 1011001 1010100 1010110 1001011 1000101 1000110 1010110 
+
+Target DNA Similarity: -6
+
+Target DNA Distance: 
+	Euclidean Distance: 58.2409
+	Manhattan Distance: 238
+	Minkowski Distance: 38.2002
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: JPYJJANFJSULPPQAUDDYAPJKA
+
+Decrypted DNA Sequence: EKTEEVIAENPGKKLVPYYTVKEFV
+--------------------------------------------------
+
+ID: 10
+DNA: NPGKKLVPYYTVKEFVESLETPRRI
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+N -> 1
+P -> 3
+G -> 1
+K -> 3
+L -> 2
+V -> 3
+Y -> 2
+T -> 2
+E -> 3
+F -> 1
+S -> 1
+R -> 2
+I -> 1
+
+ASCII DNA Sequence: 78 80 71 75 75 76 86 80 89 89 84 86 75 69 70 86 69 83 76 69 84 80 82 82 73 
+
+Binary DNA Sequence: 1001110 1010000 1000111 1001011 1001011 1001100 1010110 1010000 1011001 1011001 1010100 1010110 1001011 1000101 1000110 1010110 1000101 1010011 1001100 1000101 1010100 1010000 1010010 1010010 1001001 
+
+Target DNA Similarity: -45
+
+Target DNA Distance: 
+	Euclidean Distance: 45.9891
+	Manhattan Distance: 181
+	Minkowski Distance: 30.6442
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: SULPPQAUDDYAPJKAJXQJYUWWN
+
+Decrypted DNA Sequence: NPGKKLVPYYTVKEFVESLETPRRI
+--------------------------------------------------
+
+ID: 11
+DNA: DGSVNVRRFGGMKIERTWFAADKTG
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+D -> 2
+G -> 4
+S -> 1
+V -> 2
+N -> 1
+R -> 3
+F -> 2
+M -> 1
+K -> 2
+I -> 1
+E -> 1
+T -> 2
+W -> 1
+A -> 2
+
+ASCII DNA Sequence: 68 71 83 86 78 86 82 82 70 71 71 77 75 73 69 82 84 87 70 65 65 68 75 84 71 
+
+Binary DNA Sequence: 1000100 1000111 1010011 1010110 1001110 1010110 1010010 1010010 1000110 1000111 1000111 1001101 1001011 1001001 1000101 1010010 1010100 1010111 1000110 1000001 1000001 1000100 1001011 1010100 1000111 
+
+Target DNA Similarity: 29
+
+Target DNA Distance: 
+	Euclidean Distance: 61.7495
+	Manhattan Distance: 263
+	Minkowski Distance: 39.6509
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: ILXASAWWKLLRPNJWYBKFFIPYL
+
+Decrypted DNA Sequence: DGSVNVRRFGGMKIERTWFAADKTG
+--------------------------------------------------
+
+ID: 12
+DNA: MGPETPLGEPKNKYMELGPRDKVSQ
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+M -> 2
+G -> 3
+P -> 4
+E -> 3
+T -> 1
+L -> 2
+K -> 3
+N -> 1
+Y -> 1
+R -> 1
+D -> 1
+V -> 1
+S -> 1
+Q -> 1
+
+ASCII DNA Sequence: 77 71 80 69 84 80 76 71 69 80 75 78 75 89 77 69 76 71 80 82 68 75 86 83 81 
+
+Binary DNA Sequence: 1001101 1000111 1010000 1000101 1010100 1010000 1001100 1000111 1000101 1010000 1001011 1001110 1001011 1011001 1001101 1000101 1001100 1000111 1010000 1010010 1000100 1001011 1010110 1010011 1010001 
+
+Target DNA Similarity: 0
+
+Target DNA Distance: 
+	Euclidean Distance: 43.566
+	Manhattan Distance: 168
+	Minkowski Distance: 30.4531
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: RLUJYUQLJUPSPDRJQLUWIPAXV
+
+Decrypted DNA Sequence: MGPETPLGEPKNKYMELGPRDKVSQ
+--------------------------------------------------
+
+ID: 13
+DNA: QANPNAKIALISKVYPMRSHTVAAE
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Q -> 1
+A -> 5
+N -> 2
+P -> 2
+K -> 2
+I -> 2
+L -> 1
+S -> 2
+V -> 2
+Y -> 1
+M -> 1
+R -> 1
+H -> 1
+T -> 1
+E -> 1
+
+ASCII DNA Sequence: 81 65 78 80 78 65 75 73 65 76 73 83 75 86 89 80 77 82 83 72 84 86 65 65 69 
+
+Binary DNA Sequence: 1010001 1000001 1001110 1010000 1001110 1000001 1001011 1001001 1000001 1001100 1001001 1010011 1001011 1010110 1011001 1010000 1001101 1010010 1010011 1001000 1010100 1010110 1000001 1000001 1000101 
+
+Target DNA Similarity: 17
+
+Target DNA Distance: 
+	Euclidean Distance: 49.9099
+	Manhattan Distance: 187
+	Minkowski Distance: 34.5758
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: VFSUSFPNFQNXPADURWXMYAFFJ
+
+Decrypted DNA Sequence: QANPNAKIALISKVYPMRSHTVAAE
+--------------------------------------------------
+
+ID: 14
+DNA: QLGHKLGRKKKAKITLVDRNHSHLW
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Q -> 1
+L -> 4
+G -> 2
+H -> 3
+K -> 5
+R -> 2
+A -> 1
+I -> 1
+T -> 1
+V -> 1
+D -> 1
+N -> 1
+S -> 1
+W -> 1
+
+ASCII DNA Sequence: 81 76 71 72 75 76 71 82 75 75 75 65 75 73 84 76 86 68 82 78 72 83 72 76 87 
+
+Binary DNA Sequence: 1010001 1001100 1000111 1001000 1001011 1001100 1000111 1010010 1001011 1001011 1001011 1000001 1001011 1001001 1010100 1001100 1010110 1000100 1010010 1001110 1001000 1010011 1001000 1001100 1010111 
+
+Target DNA Similarity: 16
+
+Target DNA Distance: 
+	Euclidean Distance: 45.8912
+	Manhattan Distance: 184
+	Minkowski Distance: 30.5234
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: VQLMPQLWPPPFPNYQAIWSMXMQB
+
+Decrypted DNA Sequence: QLGHKLGRKKKAKITLVDRNHSHLW
+--------------------------------------------------
+
+ID: 15
+DNA: GLKKGTTLQGDLKAAIERDFGSVDN
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+G -> 4
+L -> 3
+K -> 3
+T -> 2
+Q -> 1
+D -> 3
+A -> 2
+I -> 1
+E -> 1
+R -> 1
+F -> 1
+S -> 1
+V -> 1
+N -> 1
+
+ASCII DNA Sequence: 71 76 75 75 71 84 84 76 81 71 68 76 75 65 65 73 69 82 68 70 71 83 86 68 78 
+
+Binary DNA Sequence: 1000111 1001100 1001011 1001011 1000111 1010100 1010100 1001100 1010001 1000111 1000100 1001100 1001011 1000001 1000001 1001001 1000101 1010010 1000100 1000110 1000111 1010011 1010110 1000100 1001110 
+
+Target DNA Similarity: 61
+
+Target DNA Distance: 
+	Euclidean Distance: 61.1146
+	Manhattan Distance: 259
+	Minkowski Distance: 39.4159
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: LQPPLYYQVLIQPFFNJWIKLXAIS
+
+Decrypted DNA Sequence: GLKKGTTLQGDLKAAIERDFGSVDN
+--------------------------------------------------
+
+ID: 16
+DNA: FGSVDNFKAEFEKAAASRFGSGWAW
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+F -> 4
+G -> 3
+S -> 3
+V -> 1
+D -> 1
+N -> 1
+K -> 2
+A -> 5
+E -> 2
+R -> 1
+W -> 2
+
+ASCII DNA Sequence: 70 71 83 86 68 78 70 75 65 69 70 69 75 65 65 65 83 82 70 71 83 71 87 65 87 
+
+Binary DNA Sequence: 1000110 1000111 1010011 1010110 1000100 1001110 1000110 1001011 1000001 1000101 1000110 1000101 1001011 1000001 1000001 1000001 1010011 1010010 1000110 1000111 1010011 1000111 1010111 1000001 1010111 
+
+Target DNA Similarity: 79
+
+Target DNA Distance: 
+	Euclidean Distance: 69.4622
+	Manhattan Distance: 305
+	Minkowski Distance: 44.1149
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: KLXAISKPFJKJPFFFXWKLXLBFB
+
+Decrypted DNA Sequence: FGSVDNFKAEFEKAAASRFGSGWAW
+--------------------------------------------------
+
+ID: 17
+DNA: HANHSLFWKGLKKGTTLQGDLKAAI
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+H -> 2
+A -> 3
+N -> 1
+S -> 1
+L -> 4
+F -> 1
+W -> 1
+K -> 4
+G -> 3
+T -> 2
+Q -> 1
+D -> 1
+I -> 1
+
+ASCII DNA Sequence: 72 65 78 72 83 76 70 87 75 71 76 75 75 71 84 84 76 81 71 68 76 75 65 65 73 
+
+Binary DNA Sequence: 1001000 1000001 1001110 1001000 1010011 1001100 1000110 1010111 1001011 1000111 1001100 1001011 1001011 1000111 1010100 1010100 1001100 1010001 1000111 1000100 1001100 1001011 1000001 1000001 1001001 
+
+Target DNA Similarity: 58
+
+Target DNA Distance: 
+	Euclidean Distance: 53.4041
+	Manhattan Distance: 216
+	Minkowski Distance: 34.9283
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: MFSMXQKBPLQPPLYYQVLIQPFFN
+
+Decrypted DNA Sequence: HANHSLFWKGLKKGTTLQGDLKAAI
+--------------------------------------------------
+
+ID: 18
+DNA: KRDGSTERINLDKIHRVLDWAAEGL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+K -> 2
+R -> 3
+D -> 3
+G -> 2
+S -> 1
+T -> 1
+E -> 2
+I -> 2
+N -> 1
+L -> 3
+H -> 1
+V -> 1
+W -> 1
+A -> 2
+
+ASCII DNA Sequence: 75 82 68 71 83 84 69 82 73 78 76 68 75 73 72 82 86 76 68 87 65 65 69 71 76 
+
+Binary DNA Sequence: 1001011 1010010 1000100 1000111 1010011 1010100 1000101 1010010 1001001 1001110 1001100 1000100 1001011 1001001 1001000 1010010 1010110 1001100 1000100 1010111 1000001 1000001 1000101 1000111 1001100 
+
+Target DNA Similarity: 48
+
+Target DNA Distance: 
+	Euclidean Distance: 49.0102
+	Manhattan Distance: 206
+	Minkowski Distance: 31.9609
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: PWILXYJWNSQIPNMWAQIBFFJLQ
+
+Decrypted DNA Sequence: KRDGSTERINLDKIHRVLDWAAEGL
+--------------------------------------------------
+
+ID: 19
+DNA: CIPFYKHFQTAVKSCSQGGVRGGAA
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+C -> 2
+I -> 1
+P -> 1
+F -> 2
+Y -> 1
+K -> 2
+H -> 1
+Q -> 2
+T -> 1
+A -> 3
+V -> 2
+S -> 2
+G -> 4
+R -> 1
+
+ASCII DNA Sequence: 67 73 80 70 89 75 72 70 81 84 65 86 75 83 67 83 81 71 71 86 82 71 71 65 65 
+
+Binary DNA Sequence: 1000011 1001001 1010000 1000110 1011001 1001011 1001000 1000110 1010001 1010100 1000001 1010110 1001011 1010011 1000011 1010011 1010001 1000111 1000111 1010110 1010010 1000111 1000111 1000001 1000001 
+
+Target DNA Similarity: 39
+
+Target DNA Distance: 
+	Euclidean Distance: 46.4004
+	Manhattan Distance: 177
+	Minkowski Distance: 31.8453
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: HNUKDPMKVYFAPXHXVLLAWLLFF
+
+Decrypted DNA Sequence: CIPFYKHFQTAVKSCSQGGVRGGAA
+--------------------------------------------------
+
+ID: 20
+DNA: PEALERWDVKLVKGLLPRHMQIINE
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+P -> 2
+E -> 3
+A -> 1
+L -> 4
+R -> 2
+W -> 1
+D -> 1
+V -> 2
+K -> 2
+G -> 1
+H -> 1
+M -> 1
+Q -> 1
+I -> 2
+N -> 1
+
+ASCII DNA Sequence: 80 69 65 76 69 82 87 68 86 75 76 86 75 71 76 76 80 82 72 77 81 73 73 78 69 
+
+Binary DNA Sequence: 1010000 1000101 1000001 1001100 1000101 1010010 1010111 1000100 1010110 1001011 1001100 1010110 1001011 1000111 1001100 1001100 1010000 1010010 1001000 1001101 1010001 1001001 1001001 1001110 1000101 
+
+Target DNA Similarity: 20
+
+Target DNA Distance: 
+	Euclidean Distance: 39.37
+	Manhattan Distance: 158
+	Minkowski Distance: 26.522
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: UJFQJWBIAPQAPLQQUWMRVNNSJ
+
+Decrypted DNA Sequence: PEALERWDVKLVKGLLPRHMQIINE
+--------------------------------------------------
+
+ID: 21
+DNA: NVTNGITPRRWIKQCNPALAALLDK
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+N -> 3
+V -> 1
+T -> 2
+G -> 1
+I -> 2
+P -> 2
+R -> 2
+W -> 1
+K -> 2
+Q -> 1
+C -> 1
+A -> 3
+L -> 3
+D -> 1
+
+ASCII DNA Sequence: 78 86 84 78 71 73 84 80 82 82 87 73 75 81 67 78 80 65 76 65 65 76 76 68 75 
+
+Binary DNA Sequence: 1001110 1010110 1010100 1001110 1000111 1001001 1010100 1010000 1010010 1010010 1010111 1001001 1001011 1010001 1000011 1001110 1010000 1000001 1001100 1000001 1000001 1001100 1001100 1000100 1001011 
+
+Target DNA Similarity: 17
+
+Target DNA Distance: 
+	Euclidean Distance: 50.1298
+	Manhattan Distance: 209
+	Minkowski Distance: 33.1305
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: SAYSLNYUWWBNPVHSUFQFFQQIP
+
+Decrypted DNA Sequence: NVTNGITPRRWIKQCNPALAALLDK
+--------------------------------------------------
+
+ID: 22
+DNA: QLINLEKFADDAKFRQQYREIKQAN
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Q -> 4
+L -> 2
+I -> 2
+N -> 2
+E -> 2
+K -> 3
+F -> 2
+A -> 3
+D -> 2
+R -> 2
+Y -> 1
+
+ASCII DNA Sequence: 81 76 73 78 76 69 75 70 65 68 68 65 75 70 82 81 81 89 82 69 73 75 81 65 78 
+
+Binary DNA Sequence: 1010001 1001100 1001001 1001110 1001100 1000101 1001011 1000110 1000001 1000100 1000100 1000001 1001011 1000110 1010010 1010001 1010001 1011001 1010010 1000101 1001001 1001011 1010001 1000001 1001110 
+
+Target DNA Similarity: 57
+
+Target DNA Distance: 
+	Euclidean Distance: 59.7076
+	Manhattan Distance: 225
+	Minkowski Distance: 40.4436
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: VQNSQJPKFIIFPKWVVDWJNPVFS
+
+Decrypted DNA Sequence: QLINLEKFADDAKFRQQYREIKQAN
+--------------------------------------------------
+
+ID: 23
+DNA: ADRVPRVFLFGAKAAPGYYLAKNII
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+A -> 5
+D -> 1
+R -> 2
+V -> 2
+P -> 2
+F -> 2
+L -> 2
+G -> 2
+K -> 2
+Y -> 2
+N -> 1
+I -> 2
+
+ASCII DNA Sequence: 65 68 82 86 80 82 86 70 76 70 71 65 75 65 65 80 71 89 89 76 65 75 78 73 73 
+
+Binary DNA Sequence: 1000001 1000100 1010010 1010110 1010000 1010010 1010110 1000110 1001100 1000110 1000111 1000001 1001011 1000001 1000001 1010000 1000111 1011001 1011001 1001100 1000001 1001011 1001110 1001001 1001001 
+
+Target DNA Similarity: 47
+
+Target DNA Distance: 
+	Euclidean Distance: 66.6408
+	Manhattan Distance: 291
+	Minkowski Distance: 42.2373
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: FIWAUWAKQKLFPFFULDDQFPSNN
+
+Decrypted DNA Sequence: ADRVPRVFLFGAKAAPGYYLAKNII
+--------------------------------------------------
+
+ID: 24
+DNA: VKAILAKGYDPVKWRKKDKVLDAVL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+V -> 4
+K -> 6
+A -> 3
+I -> 1
+L -> 3
+G -> 1
+Y -> 1
+D -> 3
+P -> 1
+W -> 1
+R -> 1
+
+ASCII DNA Sequence: 86 75 65 73 76 65 75 71 89 68 80 86 75 87 82 75 75 68 75 86 76 68 65 86 76 
+
+Binary DNA Sequence: 1010110 1001011 1000001 1001001 1001100 1000001 1001011 1000111 1011001 1000100 1010000 1010110 1001011 1010111 1010010 1001011 1001011 1000100 1001011 1010110 1001100 1000100 1000001 1010110 1001100 
+
+Target DNA Similarity: 19
+
+Target DNA Distance: 
+	Euclidean Distance: 19.0526
+	Manhattan Distance: 21
+	Minkowski Distance: 19.0018
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: APFNQFPLDIUAPBWPPIPAQIFAQ
+
+Decrypted DNA Sequence: VKAILAKGYDPVKWRKKDKVLDAVL
+--------------------------------------------------
+
+ID: 25
+DNA: KELESGKYSDGDKHAFDQMLHSIGK
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+K -> 4
+E -> 2
+L -> 2
+S -> 3
+G -> 3
+Y -> 1
+D -> 3
+H -> 2
+A -> 1
+F -> 1
+Q -> 1
+M -> 1
+I -> 1
+
+ASCII DNA Sequence: 75 69 76 69 83 71 75 89 83 68 71 68 75 72 65 70 68 81 77 76 72 83 73 71 75 
+
+Binary DNA Sequence: 1001011 1000101 1001100 1000101 1010011 1000111 1001011 1011001 1010011 1000100 1000111 1000100 1001011 1001000 1000001 1000110 1000100 1010001 1001101 1001100 1001000 1010011 1001001 1000111 1001011 
+
+Target DNA Similarity: 67
+
+Target DNA Distance: 
+	Euclidean Distance: 53.8981
+	Manhattan Distance: 227
+	Minkowski Distance: 34.8475
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: PJQJXLPDXILIPMFKIVRQMXNLP
+
+Decrypted DNA Sequence: KELESGKYSDGDKHAFDQMLHSIGK
+--------------------------------------------------
+
+ID: 26
+DNA: TGALRVAADFLAKNTSVKRVWVSNP
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+T -> 2
+G -> 1
+A -> 4
+L -> 2
+R -> 2
+V -> 4
+D -> 1
+F -> 1
+K -> 2
+N -> 2
+S -> 2
+W -> 1
+P -> 1
+
+ASCII DNA Sequence: 84 71 65 76 82 86 65 65 68 70 76 65 75 78 84 83 86 75 82 86 87 86 83 78 80 
+
+Binary DNA Sequence: 1010100 1000111 1000001 1001100 1010010 1010110 1000001 1000001 1000100 1000110 1001100 1000001 1001011 1001110 1010100 1010011 1010110 1001011 1010010 1010110 1010111 1010110 1010011 1001110 1010000 
+
+Target DNA Similarity: -14
+
+Target DNA Distance: 
+	Euclidean Distance: 55.0818
+	Manhattan Distance: 218
+	Minkowski Distance: 37.0499
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: YLFQWAFFIKQFPSYXAPWABAXSU
+
+Decrypted DNA Sequence: TGALRVAADFLAKNTSVKRVWVSNP
+--------------------------------------------------
+
+ID: 27
+DNA: DSETVDRAFSQMKAAIRANYSNPPA
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+D -> 2
+S -> 3
+E -> 1
+T -> 1
+V -> 1
+R -> 2
+A -> 5
+F -> 1
+Q -> 1
+M -> 1
+K -> 1
+I -> 1
+N -> 2
+Y -> 1
+P -> 2
+
+ASCII DNA Sequence: 68 83 69 84 86 68 82 65 70 83 81 77 75 65 65 73 82 65 78 89 83 78 80 80 65 
+
+Binary DNA Sequence: 1000100 1010011 1000101 1010100 1010110 1000100 1010010 1000001 1000110 1010011 1010001 1001101 1001011 1000001 1000001 1001001 1010010 1000001 1001110 1011001 1010011 1001110 1010000 1010000 1000001 
+
+Target DNA Similarity: 28
+
+Target DNA Distance: 
+	Euclidean Distance: 50.2792
+	Manhattan Distance: 204
+	Minkowski Distance: 33.8476
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: IXJYAIWFKXVRPFFNWFSDXSUUF
+
+Decrypted DNA Sequence: DSETVDRAFSQMKAAIRANYSNPPA
+--------------------------------------------------
+
+ID: 28
+DNA: KQNGMFSFSGLTKEQVLRLREEFGV
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+K -> 2
+Q -> 2
+N -> 1
+G -> 3
+M -> 1
+F -> 3
+S -> 2
+L -> 3
+T -> 1
+E -> 3
+V -> 2
+R -> 2
+
+ASCII DNA Sequence: 75 81 78 71 77 70 83 70 83 71 76 84 75 69 81 86 76 82 76 82 69 69 70 71 86 
+
+Binary DNA Sequence: 1001011 1010001 1001110 1000111 1001101 1000110 1010011 1000110 1010011 1000111 1001100 1010100 1001011 1000101 1010001 1010110 1001100 1010010 1001100 1010010 1000101 1000101 1000110 1000111 1010110 
+
+Target DNA Similarity: 11
+
+Target DNA Distance: 
+	Euclidean Distance: 42.7668
+	Manhattan Distance: 165
+	Minkowski Distance: 28.8822
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: PVSLRKXKXLQYPJVAQWQWJJKLA
+
+Decrypted DNA Sequence: KQNGMFSFSGLTKEQVLRLREEFGV
+--------------------------------------------------
+
+ID: 29
+DNA: RPGKINLGIGVYKDETGKTPVLTSV
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+R -> 1
+P -> 2
+G -> 4
+K -> 3
+I -> 2
+N -> 1
+L -> 2
+V -> 3
+Y -> 1
+D -> 1
+E -> 1
+T -> 3
+S -> 1
+
+ASCII DNA Sequence: 82 80 71 75 73 78 76 71 73 71 86 89 75 68 69 84 71 75 84 80 86 76 84 83 86 
+
+Binary DNA Sequence: 1010010 1010000 1000111 1001011 1001001 1001110 1001100 1000111 1001001 1000111 1010110 1011001 1001011 1000100 1000101 1010100 1000111 1001011 1010100 1010000 1010110 1001100 1010100 1010011 1010110 
+
+Target DNA Similarity: -24
+
+Target DNA Distance: 
+	Euclidean Distance: 47.392
+	Manhattan Distance: 192
+	Minkowski Distance: 31.6378
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: WULPNSQLNLADPIJYLPYUAQYXA
+
+Decrypted DNA Sequence: RPGKINLGIGVYKDETGKTPVLTSV
+--------------------------------------------------
+
+ID: 30
+DNA: ETGKTPVLTSVKKAEQYLLENETTK
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+E -> 4
+T -> 5
+G -> 1
+K -> 4
+P -> 1
+V -> 2
+L -> 3
+S -> 1
+A -> 1
+Q -> 1
+Y -> 1
+N -> 1
+
+ASCII DNA Sequence: 69 84 71 75 84 80 86 76 84 83 86 75 75 65 69 81 89 76 76 69 78 69 84 84 75 
+
+Binary DNA Sequence: 1000101 1010100 1000111 1001011 1010100 1010000 1010110 1001100 1010100 1010011 1010110 1001011 1001011 1000001 1000101 1010001 1011001 1001100 1001100 1000101 1001110 1000101 1010100 1010100 1001011 
+
+Target DNA Similarity: -21
+
+Target DNA Distance: 
+	Euclidean Distance: 51.4684
+	Manhattan Distance: 203
+	Minkowski Distance: 34.4948
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: JYLPYUAQYXAPPFJVDQQJSJYYP
+
+Decrypted DNA Sequence: ETGKTPVLTSVKKAEQYLLENETTK
+--------------------------------------------------
+
+ID: 31
+DNA: AQEEILKLSEVFKQFRLVPKQFDYL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+A -> 1
+Q -> 3
+E -> 3
+I -> 1
+L -> 4
+K -> 3
+S -> 1
+V -> 2
+F -> 3
+R -> 1
+P -> 1
+D -> 1
+Y -> 1
+
+ASCII DNA Sequence: 65 81 69 69 73 76 75 76 83 69 86 70 75 81 70 82 76 86 80 75 81 70 68 89 76 
+
+Binary DNA Sequence: 1000001 1010001 1000101 1000101 1001001 1001100 1001011 1001100 1010011 1000101 1010110 1000110 1001011 1010001 1000110 1010010 1001100 1010110 1010000 1001011 1010001 1000110 1000100 1011001 1001100 
+
+Target DNA Similarity: 21
+
+Target DNA Distance: 
+	Euclidean Distance: 45.3321
+	Manhattan Distance: 173
+	Minkowski Distance: 31.4647
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: FVJJNQPQXJAKPVKWQAUPVKIDQ
+
+Decrypted DNA Sequence: AQEEILKLSEVFKQFRLVPKQFDYL
+--------------------------------------------------
+
+ID: 32
+DNA: MDRVRTQERLIMKLCVEQCKMPKKN
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+M -> 3
+D -> 1
+R -> 3
+V -> 2
+T -> 1
+Q -> 2
+E -> 2
+L -> 2
+I -> 1
+K -> 4
+C -> 2
+P -> 1
+N -> 1
+
+ASCII DNA Sequence: 77 68 82 86 82 84 81 69 82 76 73 77 75 76 67 86 69 81 67 75 77 80 75 75 78 
+
+Binary DNA Sequence: 1001101 1000100 1010010 1010110 1010010 1010100 1010001 1000101 1010010 1001100 1001001 1001101 1001011 1001100 1000011 1010110 1000101 1010001 1000011 1001011 1001101 1010000 1001011 1001011 1001110 
+
+Target DNA Similarity: 4
+
+Target DNA Distance: 
+	Euclidean Distance: 50.5569
+	Manhattan Distance: 224
+	Minkowski Distance: 31.9472
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: RIWAWYVJWQNRPQHAJVHPRUPPS
+
+Decrypted DNA Sequence: MDRVRTQERLIMKLCVEQCKMPKKN
+--------------------------------------------------
+
+ID: 33
+DNA: IRIPVHMIETINKLNRISRQMLQEM
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+I -> 5
+R -> 3
+P -> 1
+V -> 1
+H -> 1
+M -> 3
+E -> 2
+T -> 1
+N -> 2
+K -> 1
+L -> 2
+S -> 1
+Q -> 2
+
+ASCII DNA Sequence: 73 82 73 80 86 72 77 73 69 84 73 78 75 76 78 82 73 83 82 81 77 76 81 69 77 
+
+Binary DNA Sequence: 1001001 1010010 1001001 1010000 1010110 1001000 1001101 1001001 1000101 1010100 1001001 1001110 1001011 1001100 1001110 1010010 1001001 1010011 1010010 1010001 1001101 1001100 1010001 1000101 1001101 
+
+Target DNA Similarity: -8
+
+Target DNA Distance: 
+	Euclidean Distance: 45.9565
+	Manhattan Distance: 188
+	Minkowski Distance: 30.6361
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: NWNUAMRNJYNSPQSWNXWVRQVJR
+
+Decrypted DNA Sequence: IRIPVHMIETINKLNRISRQMLQEM
+--------------------------------------------------
+
+ID: 34
+DNA: EELAERMLMPEDKIRKVLKIAKEPI
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+E -> 5
+L -> 3
+A -> 2
+R -> 2
+M -> 2
+P -> 2
+D -> 1
+K -> 4
+I -> 3
+V -> 1
+
+ASCII DNA Sequence: 69 69 76 65 69 82 77 76 77 80 69 68 75 73 82 75 86 76 75 73 65 75 69 80 73 
+
+Binary DNA Sequence: 1000101 1000101 1001100 1000001 1000101 1010010 1001101 1001100 1001101 1010000 1000101 1000100 1001011 1001001 1010010 1001011 1010110 1001100 1001011 1001001 1000001 1001011 1000101 1010000 1001001 
+
+Target DNA Similarity: 68
+
+Target DNA Distance: 
+	Euclidean Distance: 48.1041
+	Manhattan Distance: 198
+	Minkowski Distance: 31.3251
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: JJQFJWRQRUJIPNWPAQPNFPJUN
+
+Decrypted DNA Sequence: EELAERMLMPEDKIRKVLKIAKEPI
+--------------------------------------------------
+
+ID: 35
+DNA: ALKQFDVVRFAQKACSNIHILRLMR
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+A -> 3
+L -> 3
+K -> 2
+Q -> 2
+F -> 2
+D -> 1
+V -> 2
+R -> 3
+C -> 1
+S -> 1
+N -> 1
+I -> 2
+H -> 1
+M -> 1
+
+ASCII DNA Sequence: 65 76 75 81 70 68 86 86 82 70 65 81 75 65 67 83 78 73 72 73 76 82 76 77 82 
+
+Binary DNA Sequence: 1000001 1001100 1001011 1010001 1000110 1000100 1010110 1010110 1010010 1000110 1000001 1010001 1001011 1000001 1000011 1010011 1001110 1001001 1001000 1001001 1001100 1010010 1001100 1001101 1010010 
+
+Target DNA Similarity: 38
+
+Target DNA Distance: 
+	Euclidean Distance: 54.9363
+	Manhattan Distance: 230
+	Minkowski Distance: 35.9696
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: FQPVKIAAWKFVPFHXSNMNQWQRW
+
+Decrypted DNA Sequence: ALKQFDVVRFAQKACSNIHILRLMR
+--------------------------------------------------
+
+ID: 36
+DNA: VSMLGKVLGETIKDALGEHILERVE
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+V -> 3
+S -> 1
+M -> 1
+L -> 4
+G -> 3
+K -> 2
+E -> 4
+T -> 1
+I -> 2
+D -> 1
+A -> 1
+H -> 1
+R -> 1
+
+ASCII DNA Sequence: 86 83 77 76 71 75 86 76 71 69 84 73 75 68 65 76 71 69 72 73 76 69 82 86 69 
+
+Binary DNA Sequence: 1010110 1010011 1001101 1001100 1000111 1001011 1010110 1001100 1000111 1000101 1010100 1001001 1001011 1000100 1000001 1001100 1000111 1000101 1001000 1001001 1001100 1000101 1010010 1010110 1000101 
+
+Target DNA Similarity: 44
+
+Target DNA Distance: 
+	Euclidean Distance: 49.94
+	Manhattan Distance: 190
+	Minkowski Distance: 33.6097
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: AXRQLPAQLJYNPIFQLJMNQJWAJ
+
+Decrypted DNA Sequence: VSMLGKVLGETIKDALGEHILERVE
+--------------------------------------------------
+
+ID: 37
+DNA: EEGAAEPYRYLMKNLRSRLMATQAW
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+E -> 3
+G -> 1
+A -> 4
+P -> 1
+Y -> 2
+R -> 3
+L -> 3
+M -> 2
+K -> 1
+N -> 1
+S -> 1
+T -> 1
+Q -> 1
+W -> 1
+
+ASCII DNA Sequence: 69 69 71 65 65 69 80 89 82 89 76 77 75 78 76 82 83 82 76 77 65 84 81 65 87 
+
+Binary DNA Sequence: 1000101 1000101 1000111 1000001 1000001 1000101 1010000 1011001 1010010 1011001 1001100 1001101 1001011 1001110 1001100 1010010 1010011 1010010 1001100 1001101 1000001 1010100 1010001 1000001 1010111 
+
+Target DNA Similarity: 10
+
+Target DNA Distance: 
+	Euclidean Distance: 53.0094
+	Manhattan Distance: 228
+	Minkowski Distance: 34.3516
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: JJLFFJUDWDQRPSQWXWQRFYVFB
+
+Decrypted DNA Sequence: EEGAAEPYRYLMKNLRSRLMATQAW
+--------------------------------------------------
+
+ID: 38
+DNA: ANGDLLDTLRRVKCFGVPLVRIDIR
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+A -> 1
+N -> 1
+G -> 2
+D -> 3
+L -> 4
+T -> 1
+R -> 4
+V -> 3
+K -> 1
+C -> 1
+F -> 1
+P -> 1
+I -> 2
+
+ASCII DNA Sequence: 65 78 71 68 76 76 68 84 76 82 82 86 75 67 70 71 86 80 76 86 82 73 68 73 82 
+
+Binary DNA Sequence: 1000001 1001110 1000111 1000100 1001100 1001100 1000100 1010100 1001100 1010010 1010010 1010110 1001011 1000011 1000110 1000111 1010110 1010000 1001100 1010110 1010010 1001001 1000100 1001001 1010010 
+
+Target DNA Similarity: 21
+
+Target DNA Distance: 
+	Euclidean Distance: 46.3789
+	Manhattan Distance: 179
+	Minkowski Distance: 31.5815
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: FSLIQQIYQWWAPHKLAUQAWNINW
+
+Decrypted DNA Sequence: ANGDLLDTLRRVKCFGVPLVRIDIR
+--------------------------------------------------
+
+ID: 39
+DNA: ILERVETIRKLSKSSRAGNDANRQE
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+I -> 2
+L -> 2
+E -> 3
+R -> 4
+V -> 1
+T -> 1
+K -> 2
+S -> 3
+A -> 2
+G -> 1
+N -> 2
+D -> 1
+Q -> 1
+
+ASCII DNA Sequence: 73 76 69 82 86 69 84 73 82 75 76 83 75 83 83 82 65 71 78 68 65 78 82 81 69 
+
+Binary DNA Sequence: 1001001 1001100 1000101 1010010 1010110 1000101 1010100 1001001 1010010 1001011 1001100 1010011 1001011 1010011 1010011 1010010 1000001 1000111 1001110 1000100 1000001 1001110 1010010 1010001 1000101 
+
+Target DNA Similarity: 14
+
+Target DNA Distance: 
+	Euclidean Distance: 42.2847
+	Manhattan Distance: 174
+	Minkowski Distance: 28.1177
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: NQJWAJYNWPQXPXXWFLSIFSWVJ
+
+Decrypted DNA Sequence: ILERVETIRKLSKSSRAGNDANRQE
+--------------------------------------------------
+
+ID: 40
+DNA: YQAQDALIKTCEKAGIELTLFHGRG
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+Y -> 1
+Q -> 2
+A -> 3
+D -> 1
+L -> 3
+I -> 2
+K -> 2
+T -> 2
+C -> 1
+E -> 2
+G -> 3
+F -> 1
+H -> 1
+R -> 1
+
+ASCII DNA Sequence: 89 81 65 81 68 65 76 73 75 84 67 69 75 65 71 73 69 76 84 76 70 72 71 82 71 
+
+Binary DNA Sequence: 1011001 1010001 1000001 1010001 1000100 1000001 1001100 1001001 1001011 1010100 1000011 1000101 1001011 1000001 1000111 1001001 1000101 1001100 1010100 1001100 1000110 1001000 1000111 1010010 1000111 
+
+Target DNA Similarity: 74
+
+Target DNA Distance: 
+	Euclidean Distance: 43.1741
+	Manhattan Distance: 168
+	Minkowski Distance: 29.7581
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: DVFVIFQNPYHJPFLNJQYQKMLWL
+
+Decrypted DNA Sequence: YQAQDALIKTCEKAGIELTLFHGRG
+--------------------------------------------------
+
+ID: 41
+DNA: SCDVYRGYVRENKDFVPYFRSATPE
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+S -> 2
+C -> 1
+D -> 2
+V -> 3
+Y -> 3
+R -> 3
+G -> 1
+E -> 2
+N -> 1
+K -> 1
+F -> 2
+P -> 2
+A -> 1
+T -> 1
+
+ASCII DNA Sequence: 83 67 68 86 89 82 71 89 86 82 69 78 75 68 70 86 80 89 70 82 83 65 84 80 69 
+
+Binary DNA Sequence: 1010011 1000011 1000100 1010110 1011001 1010010 1000111 1011001 1010110 1010010 1000101 1001110 1001011 1000100 1000110 1010110 1010000 1011001 1000110 1010010 1010011 1000001 1010100 1010000 1000101 
+
+Target DNA Similarity: -29
+
+Target DNA Distance: 
+	Euclidean Distance: 53.6563
+	Manhattan Distance: 223
+	Minkowski Distance: 35.5138
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: XHIADWLDAWJSPIKAUDKWXFYUJ
+
+Decrypted DNA Sequence: SCDVYRGYVRENKDFVPYFRSATPE
+--------------------------------------------------
+
+ID: 42
+DNA: WLAEYYDQRLVDKALWPLGKELRNL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+W -> 2
+L -> 6
+A -> 2
+E -> 2
+Y -> 2
+D -> 2
+Q -> 1
+R -> 2
+V -> 1
+K -> 2
+P -> 1
+G -> 1
+N -> 1
+
+ASCII DNA Sequence: 87 76 65 69 89 89 68 81 82 76 86 68 75 65 76 87 80 76 71 75 69 76 82 78 76 
+
+Binary DNA Sequence: 1010111 1001100 1000001 1000101 1011001 1011001 1000100 1010001 1010010 1001100 1010110 1000100 1001011 1000001 1001100 1010111 1010000 1001100 1000111 1001011 1000101 1001100 1010010 1001110 1001100 
+
+Target DNA Similarity: 0
+
+Target DNA Distance: 
+	Euclidean Distance: 53.0471
+	Manhattan Distance: 212
+	Minkowski Distance: 35.8891
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: BQFJDDIVWQAIPFQBUQLPJQWSQ
+
+Decrypted DNA Sequence: WLAEYYDQRLVDKALWPLGKELRNL
+--------------------------------------------------
+
+ID: 43
+DNA: DSLYLVMRVYFEKPRTTVGWKGLIN
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+D -> 1
+S -> 1
+L -> 3
+Y -> 2
+V -> 3
+M -> 1
+R -> 2
+F -> 1
+E -> 1
+K -> 2
+P -> 1
+T -> 2
+G -> 2
+W -> 1
+I -> 1
+N -> 1
+
+ASCII DNA Sequence: 68 83 76 89 76 86 77 82 86 89 70 69 75 80 82 84 84 86 71 87 75 71 76 73 78 
+
+Binary DNA Sequence: 1000100 1010011 1001100 1011001 1001100 1010110 1001101 1010010 1010110 1011001 1000110 1000101 1001011 1010000 1010010 1010100 1010100 1010110 1000111 1010111 1001011 1000111 1001100 1001001 1001110 
+
+Target DNA Similarity: -51
+
+Target DNA Distance: 
+	Euclidean Distance: 50.9608
+	Manhattan Distance: 199
+	Minkowski Distance: 34.0872
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: IXQDQARWADKJPUWYYALBPLQNS
+
+Decrypted DNA Sequence: DSLYLVMRVYFEKPRTTVGWKGLIN
+--------------------------------------------------
+
+ID: 44
+DNA: PNVKVVILYPRGKISPLQEKLFCTL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+P -> 3
+N -> 1
+V -> 3
+K -> 3
+I -> 2
+L -> 4
+Y -> 1
+R -> 1
+G -> 1
+S -> 1
+Q -> 1
+E -> 1
+F -> 1
+C -> 1
+T -> 1
+
+ASCII DNA Sequence: 80 78 86 75 86 86 73 76 89 80 82 71 75 73 83 80 76 81 69 75 76 70 67 84 76 
+
+Binary DNA Sequence: 1010000 1001110 1010110 1001011 1010110 1010110 1001001 1001100 1011001 1010000 1010010 1000111 1001011 1001001 1010011 1010000 1001100 1010001 1000101 1001011 1001100 1000110 1000011 1010100 1001100 
+
+Target DNA Similarity: -25
+
+Target DNA Distance: 
+	Euclidean Distance: 43.6005
+	Manhattan Distance: 153
+	Minkowski Distance: 31.1663
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: USAPAANQDUWLPNXUQVJPQKHYQ
+
+Decrypted DNA Sequence: PNVKVVILYPRGKISPLQEKLFCTL
+--------------------------------------------------
+
+ID: 45
+DNA: OOOOOOOOOOOMKLYNLKDHNEQVS
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+O -> 11
+M -> 1
+K -> 2
+L -> 2
+Y -> 1
+N -> 2
+D -> 1
+H -> 1
+E -> 1
+Q -> 1
+V -> 1
+S -> 1
+
+ASCII DNA Sequence: 79 79 79 79 79 79 79 79 79 79 79 77 75 76 89 78 76 75 68 72 78 69 81 86 83 
+
+Binary DNA Sequence: 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001111 1001101 1001011 1001100 1011001 1001110 1001100 1001011 1000100 1001000 1001110 1000101 1010001 1010110 1010011 
+
+Target DNA Similarity: -30
+
+Target DNA Distance: 
+	Euclidean Distance: 40.2989
+	Manhattan Distance: 164
+	Minkowski Distance: 26.5419
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: TTTTTTTTTTTRPQDSQPIMSJVAX
+
+Decrypted DNA Sequence: OOOOOOOOOOOMKLYNLKDHNEQVS
+--------------------------------------------------
+
+ID: 46
+DNA: OOOOOOMKLYNLKDHNEQVSFAQAV
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+O -> 6
+M -> 1
+K -> 2
+L -> 2
+Y -> 1
+N -> 2
+D -> 1
+H -> 1
+E -> 1
+Q -> 2
+V -> 2
+S -> 1
+F -> 1
+A -> 2
+
+ASCII DNA Sequence: 79 79 79 79 79 79 77 75 76 89 78 76 75 68 72 78 69 81 86 83 70 65 81 65 86 
+
+Binary DNA Sequence: 1001111 1001111 1001111 1001111 1001111 1001111 1001101 1001011 1001100 1011001 1001110 1001100 1001011 1000100 1001000 1001110 1000101 1010001 1010110 1010011 1000110 1000001 1010001 1000001 1010110 
+
+Target DNA Similarity: -2
+
+Target DNA Distance: 
+	Euclidean Distance: 49.7996
+	Manhattan Distance: 204
+	Minkowski Distance: 33.0614
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: TTTTTTRPQDSQPIMSJVAXKFVFA
+
+Decrypted DNA Sequence: OOOOOOMKLYNLKDHNEQVSFAQAV
+--------------------------------------------------
+
+ID: 47
+DNA: NRNNVIGLLEDPKSVVKKIKRAVTD
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+N -> 3
+R -> 2
+V -> 4
+I -> 2
+G -> 1
+L -> 2
+E -> 1
+D -> 2
+P -> 1
+K -> 4
+S -> 1
+A -> 1
+T -> 1
+
+ASCII DNA Sequence: 78 82 78 78 86 73 71 76 76 69 68 80 75 83 86 86 75 75 73 75 82 65 86 84 68 
+
+Binary DNA Sequence: 1001110 1010010 1001110 1001110 1010110 1001001 1000111 1001100 1001100 1000101 1000100 1010000 1001011 1010011 1010110 1010110 1001011 1001011 1001001 1001011 1010010 1000001 1010110 1010100 1000100 
+
+Target DNA Similarity: -6
+
+Target DNA Distance: 
+	Euclidean Distance: 45.1664
+	Manhattan Distance: 186
+	Minkowski Distance: 30.2774
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: SWSSANLQQJIUPXAAPPNPWFAYI
+
+Decrypted DNA Sequence: NRNNVIGLLEDPKSVVKKIKRAVTD
+--------------------------------------------------
+
+ID: 48
+DNA: DQHAITVRQDAQKLRKATLDTLALY
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+D -> 3
+Q -> 3
+H -> 1
+A -> 4
+I -> 1
+T -> 3
+V -> 1
+R -> 2
+K -> 2
+L -> 4
+Y -> 1
+
+ASCII DNA Sequence: 68 81 72 65 73 84 86 82 81 68 65 81 75 76 82 75 65 84 76 68 84 76 65 76 89 
+
+Binary DNA Sequence: 1000100 1010001 1001000 1000001 1001001 1010100 1010110 1010010 1010001 1000100 1000001 1010001 1001011 1001100 1010010 1001011 1000001 1010100 1001100 1000100 1010100 1001100 1000001 1001100 1011001 
+
+Target DNA Similarity: 25
+
+Target DNA Distance: 
+	Euclidean Distance: 54.5069
+	Manhattan Distance: 225
+	Minkowski Distance: 35.3518
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: IVMFNYAWVIFVPQWPFYQIYQFQD
+
+Decrypted DNA Sequence: DQHAITVRQDAQKLRKATLDTLALY
+--------------------------------------------------
+
+ID: 49
+DNA: KIIGNGHLHKGAKPVHWCVDCRSAL
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+K -> 3
+I -> 2
+G -> 3
+N -> 1
+H -> 3
+L -> 2
+A -> 2
+P -> 1
+V -> 2
+W -> 1
+C -> 2
+D -> 1
+R -> 1
+S -> 1
+
+ASCII DNA Sequence: 75 73 73 71 78 71 72 76 72 75 71 65 75 80 86 72 87 67 86 68 67 82 83 65 76 
+
+Binary DNA Sequence: 1001011 1001001 1001001 1000111 1001110 1000111 1001000 1001100 1001000 1001011 1000111 1000001 1001011 1010000 1010110 1001000 1010111 1000011 1010110 1000100 1000011 1010010 1010011 1000001 1001100 
+
+Target DNA Similarity: 56
+
+Target DNA Distance: 
+	Euclidean Distance: 54.2955
+	Manhattan Distance: 218
+	Minkowski Distance: 36.0959
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: PNNLSLMQMPLFPUAMBHAIHWXFQ
+
+Decrypted DNA Sequence: KIIGNGHLHKGAKPVHWCVDCRSAL
+--------------------------------------------------
+
+ID: 50
+DNA: KMQHSYPCCWRHKTPIIFRATPQWF
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+K -> 2
+M -> 1
+Q -> 2
+H -> 2
+S -> 1
+Y -> 1
+P -> 3
+C -> 2
+W -> 2
+R -> 2
+T -> 2
+I -> 2
+F -> 2
+A -> 1
+
+ASCII DNA Sequence: 75 77 81 72 83 89 80 67 67 87 82 72 75 84 80 73 73 70 82 65 84 80 81 87 70 
+
+Binary DNA Sequence: 1001011 1001101 1010001 1001000 1010011 1011001 1010000 1000011 1000011 1010111 1010010 1001000 1001011 1010100 1010000 1001001 1001001 1000110 1010010 1000001 1010100 1010000 1010001 1010111 1000110 
+
+Target DNA Similarity: -14
+
+Target DNA Distance: 
+	Euclidean Distance: 52.1728
+	Manhattan Distance: 188
+	Minkowski Distance: 36.6299
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: PRVMXDUHHBWMPYUNNKWFYUVBK
+
+Decrypted DNA Sequence: KMQHSYPCCWRHKTPIIFRATPQWF
+--------------------------------------------------
+
+ID: 51
+DNA: VKAILAKGYWPVKWRKKDKVMDAVK
+DNA Sequence Length: 25
+
+DNA Sequence Details: 
+V -> 4
+K -> 7
+A -> 3
+I -> 1
+L -> 1
+G -> 1
+Y -> 1
+W -> 2
+P -> 1
+R -> 1
+D -> 2
+M -> 1
+
+ASCII DNA Sequence: 86 75 65 73 76 65 75 71 89 87 80 86 75 87 82 75 75 68 75 86 77 68 65 86 75 
+
+Binary DNA Sequence: 1010110 1001011 1000001 1001001 1001100 1000001 1001011 1000111 1011001 1010111 1010000 1010110 1001011 1010111 1010010 1001011 1001011 1000100 1001011 1010110 1001101 1000100 1000001 1010110 1001011 
+
+Target DNA Similarity: 0
+
+Target DNA Distance: 
+	Euclidean Distance: 0
+	Manhattan Distance: 0
+	Minkowski Distance: 0
+
+Cipher Shift Key: 5
+
+Encrypted DNA Sequence: APFNQFPLDBUAPBWPPIPARIFAP
+
+Decrypted DNA Sequence: VKAILAKGYWPVKWRKKDKVMDAVK
+--------------------------------------------------
+
